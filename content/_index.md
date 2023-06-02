@@ -85,12 +85,6 @@ sections:
       name: Zoom Me
     directions: 
     email: zinebettarraf@gmail.com
-    form:
-      formspree:
-        id: null
-      netlify:
-        captcha: false
-      provider: netlify
     phone: +33 664966150
     subtitle: null
     text: Please do not hesitate to reach out to me if you are interested in further communication.
