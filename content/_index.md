@@ -22,7 +22,7 @@ sections:
           * Moreover, I held the responsibility of co-following the complex extraction request book by querying in the data lake and also ensuring the results to be aligned with the users' requirements .
 
       location: Île-de-France, France
-      title: Group referentials data scientist/ data analyst
+      title: Group referentials data scientist / data analyst
     - company: Orika retail software
       company_logo: orika-logo
       company_url: ""

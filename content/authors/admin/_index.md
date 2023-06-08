@@ -1,5 +1,5 @@
 ---
-bio: Data scientist /Data Analyst
+bio: Data scientist / Data Analyst
 education:
   courses:
   - course:  ENSIMAG & UGA 
@@ -27,7 +27,7 @@ last_name: Et-tarraf
 organizations:
 - name: Grenoble INP - Ensimag
   url: https://ensimag.grenoble-inp.fr/
-role: Data scientist/Data Analyst
+role: Data scientist / Data Analyst
 social:
 - icon: envelope
   icon_pack: fas
