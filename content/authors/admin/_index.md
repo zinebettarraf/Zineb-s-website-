@@ -1,5 +1,5 @@
 ---
-bio: Data scientist / Data Analyst
+bio: 
 education:
   courses:
   - course:  ENSIMAG & UGA 
