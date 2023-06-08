@@ -18,10 +18,10 @@ interests:
 - Machine Learning 
 - Deep Learning
 - Data Visualization
-- Data Ethics and Privacy
 - Data-driven Decision-making
 - Natural Language Processing
 - Optimization Techniques
+- Data Ethics and Privacy
 
 last_name: Et-tarraf
 organizations:

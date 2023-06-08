@@ -22,7 +22,7 @@ sections:
           * Moreover, I held the responsibility of co-following the complex extraction request book by querying in the data lake and also ensuring the results to be aligned with the users' requirements .
 
       location: Île-de-France, France
-      title: Group referentials data scientist 
+      title: Group referentials data scientist/ data analyst
     - company: Orika retail software
       company_logo: orika-logo
       company_url: ""
@@ -36,13 +36,13 @@ sections:
     - company: LIG - Grenoble Informatics Laboratory
       company_logo: lig-logo
       company_url: ""
-      date_end: "2022-04-20"
+      date_end: "2022-05-20"
       date_start: "2022-02-20"
       description: |2-
 
           * In this project, we create more sophisticated fake scientific research papers by combining a neural network-based text generator (LSTM) with a grammar-based text generator. The goal is to challenge existing detectors and develop a more robust detection method..
       location: Grenoble, France
-      title: Research project in Natural Language Processing
+      title: data scientist in Natural Language Processing
     title: Experience
   design:
     columns: "2"
