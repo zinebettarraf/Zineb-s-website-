@@ -42,7 +42,7 @@ sections:
 
           * In this project, we create more sophisticated fake scientific research papers by combining a neural network-based text generator (LSTM) with a grammar-based text generator. The goal is to challenge existing detectors and develop a more robust detection method..
       location: Grenoble, France
-      title: data scientist in Natural Language Processing
+      title: Data scientist in Natural Language Processing
     title: Experience
   design:
     columns: "2"
