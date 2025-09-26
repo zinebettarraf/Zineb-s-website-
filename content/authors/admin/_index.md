@@ -49,4 +49,4 @@ superuser: true
 title: Zineb Et-tarraf
 ---
 
-As a versatile data professional, I excel in both the roles of Data Scientist and Data Analyst. With a strong background in statistics, machine learning, and programming, I use data-driven insights to solve complex problems, drive strategic decision-making, and deliver actionable solutions that drive business growth.
+Data Scientist with strong academic background and hands-on experience in banking. Skilled in predictive modeling, data processing, and visualization. Combines technical expertise with business understanding to deliver impactful, data-driven solutions.
