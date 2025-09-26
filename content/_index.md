@@ -18,7 +18,7 @@ sections:
       date_start: "2023-02-13"
       description: |2-
 
-          * During this internship, I had the opportunity to work within a team of highly skilled data experts dedicated to supporting the banking business lines . My main responsibilities revolved around leveraging the power of AI models to enhance the data quality within the third parties' dataset by detecting potential anomalies and suggesting appropriate data .
+          * During this internsship, I had the opportunity to work within a team of highly skilled data experts dedicated to supporting the banking business lines . My main responsibilities revolved around leveraging the power of AI models to enhance the data quality within the third parties' dataset by detecting potential anomalies and suggesting appropriate data .
           * Moreover, I held the responsibility of co-following the complex extraction request book by querying in the data lake and also ensuring the results to be aligned with the users' requirements .
 
       location: Île-de-France, France
