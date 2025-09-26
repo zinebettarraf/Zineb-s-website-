@@ -9,30 +9,31 @@ sections:
   id: about
 - block: experience
   content:
-    date_format: Feb 2023
+    date_format: Nov 2023
     items:
     - company: Societe Generale
       company_logo: sg-logo
       company_url: ""
       date_end: ""
-      date_start: "2023-02-13"
+      date_start: "2023-11-06"
       description: |2-
 
-          * During this internsship, I had the opportunity to work within a team of highly skilled data experts dedicated to supporting the banking business lines . My main responsibilities revolved around leveraging the power of AI models to enhance the data quality within the third parties' dataset by detecting potential anomalies and suggesting appropriate data .
-          * Moreover, I held the responsibility of co-following the complex extraction request book by querying in the data lake and also ensuring the results to be aligned with the users' requirements .
+          * Developing predictive models to identify early signs of counterparty deterioration in the corporate market.
+          * Developing advanced Power BI dashboards to monitor and analyze credit risk, automating data workflows to enhance efficiency and accuracy.
+          * Extracting and processing data from various environments, including datalakes (using Python, SQL, PySpark), SAS datasets, and OLAP cubes.
 
       location: Île-de-France, France
-      title: Group referentials data scientist / data analyst
+      title: Credit Risk Analyst / Data Scientist - Societe Generale
       
     - company: Societe Generale
       company_logo: sg-logo
       company_url: ""
-      date_end: ""
+      date_end: "2023-08-11"
       date_start: "2023-02-13"
       description: |2-
 
-          * During this internship, I had the opportunity to work within a team of highly skilled data experts dedicated to supporting the banking business lines . My main responsibilities revolved around leveraging the power of AI models to enhance the data quality within the third parties' dataset by detecting potential anomalies and suggesting appropriate data .
-          * Moreover, I held the responsibility of co-following the complex extraction request book by querying in the data lake and also ensuring the results to be aligned with the users' requirements .
+          * Optimized third-party data quality using AI by detecting anomalies and recommending relevant adjustments.
+          * Co-managed complex data extraction requests, interacting with the data lake and ensuring relevance through user consultation.
 
       location: Île-de-France, France
       title: Group referentials data scientist / data analyst
@@ -53,9 +54,9 @@ sections:
       date_start: "2022-02-20"
       description: |2-
 
-          * As part of a research project, we combined a neural network-based text generator (LSTM) with a grammar-based text generator to create highly sophisticated fake scientific research papers. Our objective was to test the capabilities of current detectors and to devise a more resilient detection method .
+          * Enhanced NLP-based detection system to accurately identify machine-generated scientific articles.
       location: Grenoble, France
-      title: Data scientist in Natural Language Processing
+      title: NLP Data Scientist 
     title: Experience
   design:
     columns: "2"
