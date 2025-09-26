@@ -35,6 +35,7 @@ sections:
         location: Île-de-France, France
         title: "Group Referentials Data Scientist / Data Analyst"
 
+
     - company: Orika retail software
       company_logo: orika-logo
       company_url: ""
