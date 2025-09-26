@@ -7,35 +7,34 @@ sections:
     title: Biography
     username: admin
   id: about
+
 - block: experience
   content:
-    date_format: Nov 2023
+    date_format: "Nov 2023"
     items:
-    - company: Societe Generale
-      company_logo: sg-logo
-      company_url: ""
-      date_end: ""
-      date_start: "2023-11-06"
-      description: |2-
+      - company: Societe Generale
+        company_logo: sg-logo
+        company_url: ""
+        date_end: ""
+        date_start: "2023-11-06"
+        description: |
+          * Developing predictive models to identify early signs of counterparty deterioration in the corporate market.
+          * Developing advanced Power BI dashboards to monitor and analyze credit risk, automating data workflows to enhance efficiency and accuracy.
+          * Extracting and processing data from various environments, including datalakes (using Python, SQL, PySpark), SAS datasets, and OLAP cubes.
+        location: Île-de-France, France
+        title: "Credit Risk Analyst / Data Scientist - Societe Generale"
 
-            * Developing predictive models to identify early signs of counterparty deterioration in the corporate market.
-            * Developing advanced Power BI dashboards to monitor and analyze credit risk, automating data workflows to enhance efficiency and accuracy.
-            * Extracting and processing data from various environments, including datalakes (using Python, SQL, PySpark), SAS datasets, and OLAP cubes.
-      location: Île-de-France, France
-      title: Credit Risk Analyst / Data Scientist - Societe Generale
-      
-    - company: Societe Generale
-      company_logo: sg-logo
-      company_url: ""
-      date_end: "2023-08-11"
-      date_start: "2023-02-13"
-      description: |2-
+      - company: Societe Generale
+        company_logo: sg-logo
+        company_url: ""
+        date_end: "2023-08-11"
+        date_start: "2023-02-13"
+        description: |
+          * Optimized third-party data quality using AI by detecting anomalies and recommending relevant adjustments.
+          * Co-managed complex data extraction requests, interacting with the data lake and ensuring relevance through user consultation.
+        location: Île-de-France, France
+        title: "Group Referentials Data Scientist / Data Analyst"
 
-            * Optimized third-party data quality using AI by detecting anomalies and recommending relevant adjustments.
-            * Co-managed complex data extraction requests, interacting with the data lake and ensuring relevance through user consultation.
-
-      location: Île-de-France, France
-      title: Group referentials data scientist / data analyst
     - company: Orika retail software
       company_logo: orika-logo
       company_url: ""
